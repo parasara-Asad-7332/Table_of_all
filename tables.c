@@ -8,8 +8,9 @@ int main(){
     {
         int table = num * i;
         
-        printf("%d * %d = %d\n",num,i,table);
+        printf("%d ✖️ %d = %d\n",num,i,table);
     }
     
     return 0;
 }
+
